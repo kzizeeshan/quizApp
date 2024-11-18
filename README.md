@@ -22,7 +22,7 @@ Implementation
 
 3. There are four different REST api's for performing various operations
 
-localhost:8000 --> for getting list of all quizes, creating a quiz, Removing all quizes.
+localhost:8000 --> Start Quiz.
 http://localhost:8000/quiz --> for getting details of a quiz.
 http://localhost:8000/quiz/next --> for getting next questions of a quiz and getting final results.
 
