@@ -24,8 +24,8 @@ Implementation
 
 3. There are four different REST api's for performing various operations
 
-localhost:8000 --> for getting list of all quizes, creating a quiz, Removing all quizes
-http://localhost:8000/quiz --> for getting details of a quiz
+localhost:8000 --> for getting list of all quizes, creating a quiz, Removing all quizes.
+http://localhost:8000/quiz --> for getting details of a quiz.
 http://localhost:8000/quiz/next --> for getting next questions of a quiz and getting final results.
 
 3. The implementation of these end points can be found in routes/quiz-routes.js file.
