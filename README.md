@@ -10,8 +10,6 @@
 # Start The Server 
   npm start 
 
-A quiz app with admin privileges working on node js and mongodb
-
 Problem Statement
 Build a RESTful APIs for a quiz application that allows users to answer multiple-choice questions and receive feedback on their performance.
 
