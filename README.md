@@ -28,11 +28,11 @@ localhost:8000 --> for getting list of all quizes, creating a quiz, Removing all
 http://localhost:8000/quiz --> for getting details of a quiz.
 http://localhost:8000/quiz/next --> for getting next questions of a quiz and getting final results.
 
-3. The implementation of these end points can be found in routes/quiz-routes.js file.
+4. The implementation of these end points can be found in routes/quiz-routes.js file.
 
-4. get and post are used.
+5. get and post are used.
 
-5. Ui interface created for Quiz using ejs.
+6. Ui interface created for Quiz using ejs.
 
 
 Deployment steps
